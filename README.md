@@ -9,7 +9,7 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 * [Zoom meeting](https://zoom.us/j/6841293849?pwd=OEVYTzliUEdXcUNSV3pabWo2RzRvQT09)
 
 ### Tasks
-We can also use this to list tasks:
+Current task listed below:
 - [ ] Create week-to-week plan
 - [ ] Create budget for pilot
 - [ ] Look into DBS and use the update service where necessary
