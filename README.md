@@ -8,11 +8,11 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 * [Week-To-Week plan Google Sheet](https://docs.google.com/spreadsheets/d/13SqEoJHWeSWTjnXNaI0Owhu8M24S-bqkdwMtGeHTPyw/edit?usp=sharing)
 * [Zoom meeting](https://zoom.us/j/6841293849?pwd=OEVYTzliUEdXcUNSV3pabWo2RzRvQT09)
 
-![logo](/Enactus_Cam_LogoText_Grey.png)
-
 ### Tasks
 We can also use this to list tasks:
 - [ ] Create week-to-week plan
 - [ ] Create budget for pilot
 - [ ] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
+
+![logo](/Enactus_Cam_LogoText_Grey.png =250x)
