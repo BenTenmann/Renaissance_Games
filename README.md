@@ -11,8 +11,9 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 
 ### Tasks
 Current task listed below:
-- [ ] Create week-to-week plan
-- [ ] Create budget for pilot
+- [x] Create week-to-week plan
+- [x] Create budget for pilot
+- [ ] Look over applications
 - [ ] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
 
