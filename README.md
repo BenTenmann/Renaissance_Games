@@ -15,4 +15,4 @@ We can also use this to list tasks:
 - [ ] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
 
-![logo](/Enactus_Cam_LogoText_Grey.png =250x)
+![logo](/Enactus_Cam_LogoText_Grey.png)
