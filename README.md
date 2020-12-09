@@ -7,6 +7,7 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 * [Enactus Cambridge Google Drive](https://drive.google.com/drive/u/2/folders/0AIH0sHEzBK5fUk9PVA)
 * [Week-To-Week plan Google Sheet](https://docs.google.com/spreadsheets/d/13SqEoJHWeSWTjnXNaI0Owhu8M24S-bqkdwMtGeHTPyw/edit?usp=sharing)
 * [Zoom meeting](https://zoom.us/j/6841293849?pwd=OEVYTzliUEdXcUNSV3pabWo2RzRvQT09)
+* [Proposal Doc](https://universityofcambridgecloud-my.sharepoint.com/:w:/g/personal/bt389_cam_ac_uk/EdNpDWx4JzpGnYK9F9B4I9EBSFyCbMvHn2sfy8LWuhNvhg?e=jbqcUp)
 
 ### Tasks
 Current task listed below:
