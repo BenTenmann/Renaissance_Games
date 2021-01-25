@@ -16,8 +16,12 @@ Current task listed below:
 - [x] Create week-to-week plan
 - [x] Create budget for pilot
 - [x] Look over applications
-- [ ] Look into DBS and use the update service where necessary
+- [x] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
 - [ ] Finish presentation
+
+### Data
+
+![scatter](https://chart-studio.plotly.com/~BenTenmann/1.embed)
 
 ![logo](/Enactus_Cam_LogoText_Grey.png)
