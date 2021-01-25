@@ -9,13 +9,15 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 * [Zoom meeting](https://zoom.us/j/6841293849?pwd=OEVYTzliUEdXcUNSV3pabWo2RzRvQT09)
 * [Proposal Doc](https://universityofcambridgecloud-my.sharepoint.com/:w:/g/personal/bt389_cam_ac_uk/EdNpDWx4JzpGnYK9F9B4I9EBSFyCbMvHn2sfy8LWuhNvhg?e=jbqcUp)
 * [Ppt presentation](https://docs.google.com/presentation/d/1yPlBpUcFGE56FS4T43WcG7UMrb36RIFy/edit#slide=id.p2)
+* [Prezi presentation](https://prezi.com/view/hCz2s5PB4bCGdWtVmyIT/)
 
 ### Tasks
 Current task listed below:
 - [x] Create week-to-week plan
 - [x] Create budget for pilot
-- [ ] Look over applications
-- [ ] Look into DBS and use the update service where necessary
+- [x] Look over applications
+- [x] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
+- [ ] Finish presentation
 
 ![logo](/Enactus_Cam_LogoText_Grey.png)
