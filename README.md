@@ -14,8 +14,9 @@ For now, I will mostly post links here and some draft documents (e.g. proposal).
 Current task listed below:
 - [x] Create week-to-week plan
 - [x] Create budget for pilot
-- [ ] Look over applications
+- [x] Look over applications
 - [ ] Look into DBS and use the update service where necessary
 - [ ] Look into the areas of deprivation Index to help target schools.
+- [ ] Finish presentation
 
 ![logo](/Enactus_Cam_LogoText_Grey.png)
