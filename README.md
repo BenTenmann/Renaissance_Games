@@ -20,8 +20,4 @@ Current task listed below:
 - [ ] Look into the areas of deprivation Index to help target schools.
 - [ ] Finish presentation
 
-### Data
-
-![scatter](https://chart-studio.plotly.com/~BenTenmann/1.embed)
-
 ![logo](/Enactus_Cam_LogoText_Grey.png)
